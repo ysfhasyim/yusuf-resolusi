@@ -5,3 +5,4 @@ belajar bahasa inggris
 belajar math, algoritma
 mencoba membuka file di device lain
 komputer science di awal
+fundamental data structure
