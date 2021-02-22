@@ -1,4 +1,3 @@
-yusuf resolusi
 komsistem belajar setiap hari 
 mmempelajari library computing 
 belajar bahasa inggris 
@@ -6,4 +5,5 @@ belajar math, algoritma
 mencoba membuka file di device lain
 komputer science di awal
 fundamental data structure
+belajar komputer dulu 
 si a menambahkan belajar math
